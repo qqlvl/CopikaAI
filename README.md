@@ -38,29 +38,27 @@
 ### Use the Starter (Recommended)
 
 ```bash
-git clone https://github.com/ai16z/eliza-starter.git
+git clone https://github.com/ai16z/Copika-starter.git
 
 cp .env.example .env
 
 pnpm i && pnpm build && pnpm start
 ```
 
-Then read the [Documentation](https://ai16z.github.io/eliza/) to learn how to customize your Eliza.
-
-### Manually Start Eliza (Only recommended if you know what you are doing)
+### Manually Start Copika (Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
-git clone https://github.com/ai16z/eliza.git
+git clone https://github.com/ai16z/Copika.git
 
 # Checkout the latest release
 # This project iterates fast, so we recommend checking out the latest release
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Start Eliza with Gitpod
+### Start Copika with Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ai16z/eliza/tree/main)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ai16z/Copika/tree/main)
 
 ### Edit the .env file
 
@@ -72,7 +70,7 @@ cp .env.example .env
 
 Note: .env is optional. If your planning to run multiple distinct agents, you can pass secrets through the character JSON
 
-### Automatically Start Eliza
+### Automatically Start Copika
 
 This will run everything to setup the project and start the bot with the default character.
 
@@ -90,7 +88,7 @@ sh scripts/start.sh
 3. Connect with X (Twitter)
     - change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X
 
-### Manually Start Eliza
+### Manually Start Copika
 
 ```bash
 pnpm i
@@ -111,15 +109,15 @@ pnpm install --include=optional sharp
 
 ### Community & contact
 
--   [GitHub Issues](https://github.com/ai16z/eliza/issues). Best for: bugs you encounter using Eliza, and feature proposals.
+-   [GitHub Issues](https://github.com/ai16z/Copika/issues). Best for: bugs you encounter using Copika, and feature proposals.
 -   [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
 
 ## Contributors
 
-<a href="https://github.com/ai16z/eliza/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ai16z/eliza" />
+<a href="https://github.com/ai16z/Copika/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ai16z/Copika" />
 </a>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ai16z/eliza&type=Date)](https://star-history.com/#ai16z/eliza&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ai16z/Copika&type=Date)](https://star-history.com/#ai16z/Copika&Date)
