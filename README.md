@@ -10,6 +10,17 @@
 
 </div>
 
+## 💠 New Features
+
+
+-&nbsp;&nbsp; 💾 Parsing Solana blockchain
+-&nbsp;&nbsp; 📟 On-chain analysis
+-&nbsp;&nbsp; 🖇️ Copytrading 
+-&nbsp;&nbsp; 🪪 Publication of transaction data and PNL
+
+
+
+
 ## ✨ Basic Features
 
 -   🛠️ Full-featured Discord, Twitter and Telegram connectors
@@ -20,11 +31,6 @@
 -   🚀 Highly extensible - create your own actions and clients
 -   ☁️ Supports many models (local Llama, OpenAI, Anthropic, Groq, etc.)
 -   📦 Just works!
-
-## 💠 New Features
-
--&nbsp;&nbsp; 📟 Copytrade
-
 
 
 
