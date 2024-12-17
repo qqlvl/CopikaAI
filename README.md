@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  📖 [Documentation ](https://ai16z.github.io/eliza/) |
+  📖 [Documentation ](https://ai16z.github.io/eliza/) | [twitter](https://x.com/CopikaAI) 
 
 </div>
 
