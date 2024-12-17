@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  📖 [web  ](CopyME.fun) &nbsp;&nbsp;| 🤖 [twitter  ](https://x.com/CopikaAI) &nbsp;&nbsp;  | 📊 [pump  ](https://x.com/CopikaAI) 
+  📖 [Web  ](https://copyme.fun) &nbsp;&nbsp;| 🤖 [Twitter  ](https://x.com/CopikaAI) &nbsp;&nbsp;  | 📊 [Pump  ](https://x.com/CopikaAI) 
 
 </div>
 
