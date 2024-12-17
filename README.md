@@ -13,10 +13,10 @@
 ## 💠 New Features
 
 
--&nbsp;&nbsp; 💾 Parsing Solana blockchain
--&nbsp;&nbsp; 📟 On-chain analysis
--&nbsp;&nbsp; 🖇️ Copytrading 
--&nbsp;&nbsp; 🪪 Publication of transaction data and PNL
+-   💾 Parsing Solana blockchain
+-   📟 On-chain analysis
+-   🖇️ Copytrading 
+-   🪪 Publication of transaction data and PNL
 
 
 
