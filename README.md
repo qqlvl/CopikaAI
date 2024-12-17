@@ -10,7 +10,7 @@
 
 </div>
 
-## ✨ Features
+## ✨ Basic Features
 
 -   🛠️ Full-featured Discord, Twitter and Telegram connectors
 -   🔗 Support for every model (Llama, Grok, OpenAI, Anthropic, etc.)
@@ -20,6 +20,11 @@
 -   🚀 Highly extensible - create your own actions and clients
 -   ☁️ Supports many models (local Llama, OpenAI, Anthropic, Groq, etc.)
 -   📦 Just works!
+
+## 💠 New Features
+
+-&nbsp;&nbsp; 📟 Copytrade
+
 
 
 
