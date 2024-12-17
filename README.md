@@ -56,10 +56,6 @@ git clone https://github.com/ai16z/Copika.git
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Start Copika with Gitpod
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ai16z/Copika/tree/main)
-
 ### Edit the .env file
 
 Copy .env.example to .env and fill in the appropriate values.
@@ -110,14 +106,3 @@ pnpm install --include=optional sharp
 ### Community & contact
 
 -   [GitHub Issues](https://github.com/ai16z/Copika/issues). Best for: bugs you encounter using Copika, and feature proposals.
--   [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
-
-## Contributors
-
-<a href="https://github.com/ai16z/Copika/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ai16z/Copika" />
-</a>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ai16z/Copika&type=Date)](https://star-history.com/#ai16z/Copika&Date)
