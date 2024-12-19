@@ -1,7 +1,7 @@
 # Copika 🤖
 
 <div align="center">
-  <img src="./docs/static/img/copika.jpg" alt="Copika Banner" width="100%" />
+  <img src="./docs/static/img/copika2.jpg" alt="Copika Banner" width="100%" />
 </div>
 
 <div align="center">
