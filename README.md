@@ -1,4 +1,4 @@
-# KIKI 🤖
+# CopikaAi 🤖
 
 <div align="center">
   <img src="./docs/static/img/copika2.jpg" alt="Copika Banner" width="100%" />
