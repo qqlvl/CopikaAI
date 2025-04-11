@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  📖 [Web  ](https://copyme.fun) &nbsp;&nbsp;| 🤖 [Twitter  ](https://x.com/KIKI_WATCH) &nbsp;&nbsp;  | 📊 [Pump  ](https://x.com/CopikaAI)   | 👩 [Eliza](https://github.com/ai16z/eliza) &nbsp;&nbsp; | 🐐 [GOAT](https://github.com/goat-sdk/goat) &nbsp;&nbsp;
+  📖 [Web  ](https://copyme.fun) &nbsp;&nbsp;| 🤖 [Twitter  ](https://x.com/CopyMeFun) &nbsp;&nbsp;  | 📊 [Pump  ](https://x.com/CopikaAI)   | 👩 [Eliza](https://github.com/ai16z/eliza) &nbsp;&nbsp; | 🐐 [GOAT](https://github.com/goat-sdk/goat) &nbsp;&nbsp;
 
 </div>
 
